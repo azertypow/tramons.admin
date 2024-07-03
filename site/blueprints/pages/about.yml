@@ -1,0 +1,44 @@
+title: À Propos
+
+icon: ☎️
+
+status:
+  listed: true
+
+options:
+  changeSlug: false
+  delete: false
+  changeStatus: false
+
+columns:
+  - width: 2/3
+    fields:
+      address:
+        label: Address
+        type: writer
+        inline: true
+      email:
+        label: Email
+        type: email
+      phone:
+        label: téléphone
+        type: tel
+  - width: 1/2
+    fields:
+      color:
+        label: couleur de fond
+        type: text
+      social:
+        label: external links
+        type: structure
+        columns:
+          platform: true
+        fields:
+          platform:
+            label: Platform
+            type: text
+            width: 1/2
+          url:
+            label: URL
+            type: url
+            width: 1/2

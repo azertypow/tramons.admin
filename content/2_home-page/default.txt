@@ -1,0 +1,17 @@
+Title: home
+
+----
+
+Cover: 
+
+----
+
+Intro: <p>kjmslkdfklm</p><p>slùmjdfùlkfs</p>
+
+----
+
+Text: [{"content":{"level":"h2","text":"Couleurs"},"id":"d28f90c7-49e0-482c-b805-737ccce2f580","isHidden":false,"type":"heading"},{"content":{"text":"<p>voici les couleurs qu'on a</p>"},"id":"6810f1c0-aaa1-4476-997d-0dfed5320a71","isHidden":false,"type":"text"},{"content":{"color":"#090987","text":"couleur orange"},"id":"882d12cc-5e48-4cde-a37d-80aedf04c92c","isHidden":false,"type":"button"},{"content":{"color":"#0000FF","text":"bleur"},"id":"ecf5e866-dff1-4a96-a78d-debd0a9111d3","isHidden":false,"type":"button"},{"content":{"location":"kirby","image":[],"src":"","alt":"","caption":"","link":"","ratio":"","crop":"false"},"id":"98dc0acb-f5f8-4e79-a84a-ebfc40ad2a2c","isHidden":false,"type":"image"}]
+
+----
+
+Uuid: rt8XJfMDd2TpWLxl
